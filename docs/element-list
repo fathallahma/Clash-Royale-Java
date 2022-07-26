@@ -1,0 +1,6 @@
+game
+game.action
+game.board
+game.board.cell
+game.board.resources
+game.personnage
